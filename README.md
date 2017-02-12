@@ -1,4 +1,5 @@
 Hello World Sample
+Branch: dev
 ==================================================
 
 This sample is based on *Zend Skeleton Application*. It shows how to:
@@ -46,3 +47,4 @@ This code is provided under the [BSD-like license](https://en.wikipedia.org/wiki
 ## Contributing
 
 If you found a mistake or a bug, please report it using the [Issues](https://github.com/olegkrivtsov/using-zf3-book-samples/issues) page. Your feedback is highly appreciated.
+
