@@ -1,4 +1,5 @@
 Hello World Sample
+master
 ==================================================
 
 This sample is based on *Zend Skeleton Application*. It shows how to:
